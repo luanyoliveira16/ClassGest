@@ -6,7 +6,7 @@ Este projeto tem como objetivo o desenvolvimento de um **sistema de gestão esco
 
 ### Integrantes do Grupo
 - Cleber Alves Guedes - @PebiAlves 
-- David Marão Spungin
+- David Marão Spungin -keldeo05
 - Eduardo Castro Sakai
 - Isabel Helena Hartmann - @belhartmann 
 - João Henrique Rocha Camargo - @Joaohrc11 
