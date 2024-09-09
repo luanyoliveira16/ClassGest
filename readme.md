@@ -42,7 +42,7 @@ O sistema de gestão escolar foi desenvolvido para facilitar o gerenciamento de:
 - Ferramentas de Protótipo: (Canva)[ www.canva.com/design/DAGQH0Htum0/B5gO_JWFvjrchiEvGczq-Q/edit?utm_content=DAGQH0Htum0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ]
 - Ferramenta dos diagramas: (Lucidchart)[ https://www.lucidchart.com/pages/pt ]
 - Ferramenta MD: (vsCode)[ https://code.visualstudio.com/ ]
-- Ferramenta de codigo de versonamento: (GitHub)[ https://github.com/ ]
+- Ferramenta de codigo de versonamento: (GitHub)[ https://github.com/luanyoliveira16/ClassGest ]
 
 ### Diagrama de casos de uso
 ![Diagrama de caso de uso](imagens/DiagramaDeCasoDeUso.png)
