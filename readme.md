@@ -5,12 +5,12 @@
 Este projeto tem como objetivo o desenvolvimento de um **sistema de gestão escolar** que permite o cadastro e a gestão de alunos, professores, fornecedores e cursos. O sistema foi modelado utilizando técnicas de **orientação a objetos** e implementado com base em diagramas de casos de uso e diagramas de classes.
 
 ### Integrantes do Grupo
-- Cleber Alves Guedes - @PebiAlves 
-- David Marão Spungin -keldeo05
-- Eduardo Castro Sakai - @duduzinanalise
-- Isabel Helena Hartmann - @belhartmann 
-- João Henrique Rocha Camargo - @Joaohrc11 
-- Luany Beatriz André de Oliveira - @luanyoliveira16 
+- [Cleber Alves Guedes](https://github.com/PebiAlves) 
+- [David Marão Spungin](https://github.com/keldeo05)
+- [Eduardo Castro Sakai](https://github.com/duduzinanalise)
+- [Isabel Helena Hartmann](https://github.com/belhartmann) 
+- [João Henrique Rocha Camargo](https://github.com/Joaohrc11)
+- [Luany Beatriz André de Oliveira](https://github.com/luanyoliveira16)
 
 ### Orientador
 - Enoque Felipe dos Santos Leal
@@ -39,10 +39,10 @@ O sistema de gestão escolar foi desenvolvido para facilitar o gerenciamento de:
 - Pré-condições: O usuário precisa ter um login válido para acessar o sistema e realizar as operações de cadastro.
 
 ### Tecnologias Utilizadas
-- Ferramentas de Protótipo: (Canva)[ www.canva.com/design/DAGQH0Htum0/B5gO_JWFvjrchiEvGczq-Q/edit?utm_content=DAGQH0Htum0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ]
-- Ferramenta dos diagramas: (Lucidchart)[ https://www.lucidchart.com/pages/pt ]
-- Ferramenta MD: (vsCode)[ https://code.visualstudio.com/ ]
-- Ferramenta de codigo de versonamento: (GitHub)[ https://github.com/luanyoliveira16/ClassGest ]
+- [Protótipo](https://www.canva.com/design/DAGQH0Htum0/B5gO_JWFvjrchiEvGczq-Q/edit?utm_content=DAGQH0Htum0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Diagramas](https://www.lucidchart.com/pages/pt)
+- [VSCode](https://code.visualstudio.com/)
+- [Github](https://github.com/luanyoliveira16/ClassGest)
 
 ### Diagrama de casos de uso
 ![Diagrama de caso de uso](imagens/DiagramaDeCasoDeUso.png)
