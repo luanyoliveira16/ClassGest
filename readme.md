@@ -40,6 +40,15 @@ O sistema de gestão escolar foi desenvolvido para facilitar o gerenciamento de:
 
 ### Tecnologias Utilizadas
 - Ferramentas de Protótipo: (Canva)[]
+- Ferramenta dos diagramas: (Lucidchart)[]
+- Ferramenta MD: (vsCode)[]
+- Ferramenta de codigo de versonamento: (GitHub)[]
+
+### Diagrama de casos de uso
+![Diagrama de caso de uso](imagens/DiagramaDeCasoDeUso.png)
+
+### Diagrama de classes
+![MER](imagens/Mer.png)
 
 ### Tela inicial
 ![Tela inicial](imagens/1.jpg)
