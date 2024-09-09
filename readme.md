@@ -40,4 +40,37 @@ O sistema de gestão escolar foi desenvolvido para facilitar o gerenciamento de:
 
 ### Tecnologias Utilizadas
 - Ferramentas de Protótipo: (Canva)[]
-  
+
+### Tela inicial
+![Tela inicial](/imagens/1.jpg)
+
+### Tela informações nossa empresa
+![empresa](/imagens/2.jpg)
+
+### Tela de login do administrador
+![administrador](/imagens/3.jpg)
+
+### Tela cadastro do aluno
+![aluno](/imagens/4.jpg)
+
+### Tela cadastro do professor
+![professor](/imagens/7.jpg)
+
+### Tela cadastro do fornecero
+![fornecero](/imagens/10.jpg)
+
+### Tela cadastro do curso
+![curso](/imagens/13.jpg)
+
+### Tela cadastro do no curso
+![noCurso](/imagens/16.jpg)
+
+### Tela de cadastro salvo com sucesso
+![fdsfs](/imagens/17.jpg)
+
+### Tela de cadastro excluido com sucesso
+![fdsfs](/imagens/18.jpg)
+
+### Tela de contato
+![fdsfs](/imagens/19.jpg)
+
