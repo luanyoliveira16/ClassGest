@@ -7,7 +7,7 @@ Este projeto tem como objetivo o desenvolvimento de um **sistema de gestão esco
 ### Integrantes do Grupo
 - Cleber Alves Guedes - @PebiAlves 
 - David Marão Spungin -keldeo05
-- Eduardo Castro Sakai
+- Eduardo Castro Sakai - @duduzinanalise
 - Isabel Helena Hartmann - @belhartmann 
 - João Henrique Rocha Camargo - @Joaohrc11 
 - Luany Beatriz André de Oliveira - @luanyoliveira16 
@@ -39,10 +39,10 @@ O sistema de gestão escolar foi desenvolvido para facilitar o gerenciamento de:
 - Pré-condições: O usuário precisa ter um login válido para acessar o sistema e realizar as operações de cadastro.
 
 ### Tecnologias Utilizadas
-- Ferramentas de Protótipo: (Canva)[]
-- Ferramenta dos diagramas: (Lucidchart)[]
-- Ferramenta MD: (vsCode)[]
-- Ferramenta de codigo de versonamento: (GitHub)[]
+- Ferramentas de Protótipo: (Canva)[  https://www.canva.com/pt_br/ ]
+- Ferramenta dos diagramas: (Lucidchart)[ https://www.lucidchart.com/pages/pt ]
+- Ferramenta MD: (vsCode)[ https://code.visualstudio.com/ ]
+- Ferramenta de codigo de versonamento: (GitHub)[ https://github.com/ ]
 
 ### Diagrama de casos de uso
 ![Diagrama de caso de uso](imagens/DiagramaDeCasoDeUso.png)
