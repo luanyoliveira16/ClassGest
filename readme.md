@@ -5,12 +5,12 @@
 Este projeto tem como objetivo o desenvolvimento de um **sistema de gestão escolar** que permite o cadastro e a gestão de alunos, professores, fornecedores e cursos. O sistema foi modelado utilizando técnicas de **orientação a objetos** e implementado com base em diagramas de casos de uso e diagramas de classes.
 
 ### Integrantes do Grupo
-- Cleber Alves Guedes - @PebiAlves
+- Cleber Alves Guedes - @PebiAlves 
 - David Marão Spungin
 - Eduardo Castro Sakai
-- Isabel Helena Hartmann - @belhartmann
-- João Henrique Rocha Camargo - @Joaohrc11
-- Luany Beatriz André de Oliveira - @luanyoliveira16
+- Isabel Helena Hartmann - @belhartmann 
+- João Henrique Rocha Camargo - @Joaohrc11 
+- Luany Beatriz André de Oliveira - @luanyoliveira16 
 
 ### Orientador
 - Enoque Felipe dos Santos Leal
